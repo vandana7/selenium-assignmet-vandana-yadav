@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mCreateTestSuit:[0m[0m
+[0m[[0minfo[0m] [0m[32mA user[0m[0m
+[0m[[0minfo[0m] [0m[32m- should visit on flipcart.com[0m[0m
+[0m[[0minfo[0m] [0m[32muser[0m[0m
+[0m[[0minfo[0m] [0m[32m- should able to logged in with valid credentials[0m[0m
+[0m[[0minfo[0m] [0m[32muser[0m[0m
+[0m[[0minfo[0m] [0m[32m- should able to add elements to cart[0m[0m
+[0m[[0minfo[0m] [0m[32muser[0m[0m
+[0m[[0minfo[0m] [0m[32m- should able to add a mailing add[0m[0m
